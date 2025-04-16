@@ -5,7 +5,8 @@ function Home() {
   // update the JSX being returned!
   return (
     <div id="home">
-      <h1>Jared is a Web Developer from Kenya</h1>
+      <h1 style={{color: "firebrick"}}>Jared is a Web Developer from Kenya</h1>
+
 
     </div>
   )
